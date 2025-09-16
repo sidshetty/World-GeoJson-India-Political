@@ -4,7 +4,7 @@ This is ofcourse not a mini GeoJSON and not a full accuracy maps, skips a lot of
 
 Example:
 as used on my personal website : [https://siddharthshetty.in/travel](https://siddharthshetty.in/travel)
-![Sample use of the image](image-1.png)
+![Sample use of the image](Sample.png)
 
 
 ## License
